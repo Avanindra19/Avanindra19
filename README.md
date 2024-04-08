@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **an optimization problem for a Fortune 500**
+ 🔭 I’m currently working on **a production optimization problem for a Fortune 500 company**
  
  🌱 I’m currently learning **GCP, Natural Language Processing, Predictive Analytics**
 
