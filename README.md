@@ -16,7 +16,7 @@
 
 💬 Ask me about **Predictive Analytics, Statistics, Database Mangement, Exploratory Analysis... or anything [here](https://www.linkedin.com/in/avanindrasingh/)**
 
-⚡ Fun fact **Manchester United's iconic red jerseys are so vibrant because they're dyed with the tears of rival fans!**
+⚡ Fun fact **Manchester United's iconic red jerseys are so vibrant because they're dyed with the tears of rival fans:p**
 
  </div>
  
