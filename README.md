@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **GCP, Natural Language Processing, Predictive Analytics**
 
-💬 Ask me about **Predictive Analytics, Statistics, Database Mangement, Exploratory and Regression Analysis... or anything [here](https://www.linkedin.com/in/avanindrasingh/)**
+💬 Ask me about **Predictive Analytics, Statistics, Database Mangement, Exploratory Analysis... or anything [here](https://www.linkedin.com/in/avanindrasingh/)**
 
 ⚡ Fun fact **Manchester United's iconic red jerseys are so vibrant because they're dyed with the tears of rival fans!**
 
@@ -71,7 +71,7 @@
 
 <div align="center">
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Avanindra+Singh!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Connect+with+me+on+linkedin!;Thanks+for+visiting+:);" />
 </h1>
 </div>
 
