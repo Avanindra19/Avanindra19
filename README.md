@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Avanindra+Singh!;" />
 </h1>
 
-<h3 align="center">An enthusiastic data science practitioner currently enrolled in a Master's program focused on Business Analytics</h3>
+<h3 align="center">A passionate data scientist pursuing a Master's in Business Analytics.</h3>
 
 <br/>
 
